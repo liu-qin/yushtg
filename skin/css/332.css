@@ -379,8 +379,8 @@ bx-wrapper .bx-pager.bx-default-pager a { width: 20px; height: 4px; margin: 0px 
 #newsPage #newslist .newstitem a.newscontent { border-bottom: 1px solid rgba(255,255,255,.1); padding-bottom: 20px; }
 #newsPage #newslist .newstitem a:hover .newsbody .title { color: #333333; }
 .postbody img { max-width: 100%; }
-.npagePage #banner div { height: 350px; }
-.npagePage #banner { height: 350px; }
+.npagePage #banner div { height: 370px; }
+.npagePage #banner { height: 370px; }
 #mpage .content .header p.title { text-align: left; margin-left: 14%; font-size: 26px; }
 #projectlist .wrapper { width: 85%; margin: 0 auto; }
 #indexPage #mproject #category { position: absolute; top: 20px; display: block; animation-name: fadeInUp; right: 5%; margin-right: 150px; }
